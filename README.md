@@ -1,2 +1,2 @@
 # python-basics
-This is a Python Basic Programs
+This is a repository contains Python Basic Programs
